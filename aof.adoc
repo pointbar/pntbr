@@ -1,0 +1,147 @@
+“__Writing is hard__.”
+
+That's what experience has conditioned us to believe.
+
+But, we can't just avoid it, especially in the tech industry.
+We _must_ write.
+Even the most brilliant software is useless without good documentation.
+If the users fail, so does the project.
+
+[quote, Nick Coghlan]
+Unless your UI discoverability is *really good*, saying “the feature isn't documented” is the same as saying “the product can't do it.”
+
+In other words,
+
+[quote, Matthew Ginnard]
+Live and die by documentation.
+
+Then why, _oh why_, do we make it more difficult by burying the content in XML schemas like DocBook, allowing complex word processors to distract us or wasting time battling with finicky WYSIWYG editors?
+
+Imagine if writing documentation was as simple as writing an email.
+
+_It *can* be_.
+
+That's the idea behind lightweight markup languages such as AsciiDoc.
+They offer a plain-text syntax, embellished with subtle, yet intuitive markup, that's designed for humans to read, write and edit in raw form.
+The natural feel of the syntax keeps you focused on the content.
+Best of all, the plain text can quickly and easily be translated into output formats such as HTML5 for presentation.
+
+In this introduction to AsciiDoc, we'll cover what it is, why it's valuable and what sets it apart from alternatives such as Markdown.
+You'll discover that the key to escaping the agony of writing documentation is dropping the angle brackets that are burying the knowledge you have to share.
+
+To learn how to reduce the work of writing and publishing content--whether it's notes, documentation, articles, books, web pages or good ol`'-fashioned prose--and attain writing zen, or to simply set the ideas locked in your head free, read on.
+
+== What is AsciiDoc?
+
+AsciiDoc is two things:
+
+. A mature{empty}footnote:[AsciiDoc is over a decade old. It was first introduced in 2002.], plain-text writing format for authoring notes, articles, documentation, books, ebooks, web pages, slide decks, blog posts, man pages and more.
+. A text processor and toolchain for translating AsciiDoc documents into various formats (called _backends_), including HTML, DocBook, PDF and ePub{empty}footnote:[There are two implementations of the AsciiDoc processor. The original processor, named AsciiDoc, is written in Python. A more modern implementation, named Asciidoctor, is written in Ruby.].
+
+AsciiDoc belongs to the family of http://en.wikipedia.org/wiki/Lightweight_markup_language[lightweight markup languages], the most renowned of which is http://daringfireball.net/projects/markdown/[Markdown].
+AsciiDoc stands out from this group because it supports all the structural elements necessary for drafting articles, technical manuals, books, presentations and prose.
+In fact, it's capable of meeting even the most advanced publishing requirements and technical semantics.
+
+Serving as testament of this fact, many O'Reilly authors including https://github.com/matthewmccullough[Matthew McCullough], https://github.com/tlberglund[Tim Berglund], https://github.com/oreillymedia/etudes-for-erlang[Simon St.Laurent], http://www.apeth.net/matt/iosbooktoolchain.html[Matt Neuburg] and http://www.oreilly.com/pub/au/219[Ian Darwin] have used AsciiDoc to write their books for that iconic technical library.
+
+From the very beginning, AsciiDoc was designed to be a shorthand replacement for http://www.docbook.org/whatis[DocBook], one of the formats AsciiDoc can generate.
+AsciiDoc can also produce beautiful HTML5, PDFs, eBooks, man pages and even slide decks.
+It has you covered from first draft to publishing.
+
+Now that we've established what AsciiDoc is, let's consider why we need it.
+
+== Why AsciiDoc?
+
+As humans, we have no difficulty talking or thinking.
+In fact, we're fluent in it.
+It's an activity that just happens whenever a thought comes to mind.
+
+_Writing, on the other hand, rarely comes so easy._
+
+When it's time to write our thoughts down, we _struggle_ to find the words--or, at least, how to arrange and organize them.
+That _damn_ inner critic disrupts the stream of consciousness we coast on while talking or thinking.
+
+It's reasonable to conclude that writing is just hard.
+
+_Or is it?_
+
+=== On writing: e-mail vs documents
+
+Writing e-mail is easy.
+We do it all the time.
+Every day, we respond to dozens of e-mail and social media messages.
+That involves communication through writing.
+That's right, _writing!_
+
+Yet, amid the flurry of typing that occurs when we respond to an e-mail, we hardly even realize we're doing it...and _fluently!_
+
+As it turns out...
+
+[quote, 'http://blog.stoyanstefanov.com/asciidoc[Stoyan Stefanov]']
+Most people are OK with writing e-mails.
+They don't consider this writing.
+There's no writer's block.
+Someone asks you a question, you [press] reply and type away.
+
+_So why do we struggle to write *documents*?_
+
+The main reason we struggle is because we don't write documents the same way we write e-mail.
+Instead, we allow ourselves to get distracted by complex word processors, bury the content in XML schemas like DocBook, or battle with finicky WYSIWYG editors.
+How did we get ourselves into this mess?
+
+=== Word processors, the real writer's block
+
+When you're in the writing (i.e., http://blog.stoyanstefanov.com/writing-vs-typing/[typing]) phase, you want the words to flow onto the screen with minimal distractions and interruptions.
+Flow, not just time, is essential.
+
+Most word processors excel at distracting you from writing.
+The result: _you write less_ (ironic, huh?).
+
+In a word processor, before you can type the first word on a blank white screen, you're forced to think about what font family you want, what font size you want, what lines spacing you want and so on.
+Once you do get going, auto-correct, spelling and grammar suggestions entice you to backtrack and lose your next thought.
+“Smart” quotes and auto-linking messes with the text as fast as you can enter it.
+If you paste text, it likely gets added to the document with a different font family, size and even color.
+
+*Undo. Undo. Undo!*
+
+Let's not even talk about inserting source code.
+The designers of word processors clearly did not.
+
+*Format. Format. Format!*
+
+After burning time fighting with its interface, you rightfully conclude that the word processor is trying to _sabotage_ your writing process.
+
+*We _need_ an easier way to write!*
+
+But how?
+
+=== Use what you know
+
+_What if you could write documentation like you write e-mail?_
+
+Imagine being able to forget about layout, typesetting, styling (and even some semantics) and just _write_.
+That's the idea behind *lightweight markup languages* such as Markdown and AsciiDoc.
+
+Here's how John Gruber introduced Markdown (in March 2004):
+
+[quote, "John Gruber, Creator of Markdown"]
+____
+The overriding design goal for Markdown's formatting syntax is to make it as readable as possible.
+
+A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions.
+
+The single biggest source of inspiration for Markdown's syntax is the format of plain text e-mail.
+____
+
+Similarly, here's how Stuart Rackham introduced AsciiDoc (2 years earlier):
+
+[quote, "Stuart Rackham, Creator of AsciiDoc"]
+You write an AsciiDoc document the same way you would write a normal text document.
+There are no markup tags or weird format notations.
+AsciiDoc files are designed to be viewed, edited and printed directly or translated to other presentation formats.
+
+These languages are designed to enable humans to write documents, and for other humans to be able to read them, *_as is_*, in _raw_ form.
+
+Here's a basic example of an AsciiDoc document:
+
+[source,asciidoc]
