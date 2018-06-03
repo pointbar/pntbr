@@ -46,3 +46,11 @@ Hypothèses formulées :
 
 Le produit est mis à disposition des usagers. Ils et elles prennent possession du produit, le ou la PO planifie les tests d'utilisabilité, et facilite l'expression des retours des usagers - *feedback*  
 Le MVP est consolidé en tenant compte des retours et des découvertes.
+
+### Plate-forme en tant que service
+
+Pour faciliter la mise en production, un service PaaS avec un Datacenter hébergé en Europe ou un service type Gitlab pages est généralement privilégié.
+
+# Liens
+* https://docs.nanobox.io/providers/hosting-accounts/ovh/
+* http://www.aubryconseil.com/post/Gymkhana-introduction
