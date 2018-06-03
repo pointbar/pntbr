@@ -1,7 +1,7 @@
 # Exemple de l'approche de construction d'un Produit Minimum Viable
 
-**Durée** : 1 à 3 mois
-**Coût indicatif** : 10k à 50k euros
+**Durée** : 1 à 3 mois  
+**Coût indicatif** : 10k à 50k euros  
 
 ## Contexte initial :
 

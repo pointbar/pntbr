@@ -1,4 +1,4 @@
-# Phase de réalisation du produit
+# Réalisation d'un produit 
 
 **Durée** : 1 à 3 mois
 **Coût indicatif** : 10k à 50k euros
