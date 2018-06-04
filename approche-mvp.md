@@ -11,6 +11,8 @@ La suspicion d'avoir découvert un irritant est suffisamment forte pour déclenc
 
 Un binôme est constitué, composé d'un·e Product-Manager et d'un·e développeu·r·se.
 
+Le ou les problèmes rencontrés sont caractérisés pour que l'ensemble des parties prenantes les identifient et les solutions de contournement éventuelles sont analysées afin de s'assurer que la ou les solutions proposées apportent bien de la valeur.
+
 Après une séquence d'interviews des parties prenantes, le ou la PM commence à formuler des hypothèses pour adopter et qualifier l'irritant.  
   
 Hypothèses :
@@ -34,7 +36,7 @@ Hypothèses formulées :
 - Des outils de diffusion sont pressentis pour que les usagers rencontrent le produit - *Channels*.
 - On vérifie également l'engagement des usagers en vérifiant par exemple, le prix, les recommandations aux proches ou le temps qu'ils ou elles pourraient consacrer pour pouvoir utiliser le produit.
 
-Une nouvelle séquence d'interviews démarrent avec les usagers pour modeler cette première solution embryonnaire et affermir la proposition unique de valeur.
+Une nouvelle séquence d'interviews démarre avec les usagers pour modeler cette première solution embryonnaire et affermir la proposition unique de valeur.
 
 ## Phase de réalisation du MVP
 
