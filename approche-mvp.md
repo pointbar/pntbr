@@ -13,7 +13,7 @@ Un binôme est constitué, composé d'un·e Product-Manager et d'un·e développ
 
 Le ou les problèmes rencontrés sont caractérisés pour que l'ensemble des parties prenantes les identifient et les solutions de contournement éventuelles sont analysées afin de s'assurer que la ou les solutions proposées apportent bien de la valeur.
 
-Après une séquence d'interviews des parties prenantes, le ou la PM commence à formuler des hypothèses pour adopter et qualifier l'irritant.  
+Après une séquence d'interviews des parties prenantes, le ou la PM cherche ainsi à acquérir une compréhension fine du contexte de l’usager, des différentes dimensions de l’irritant, des problèmes liés, de ses motivations et schémas de pensées qui expliquent sa perception de l’irritant, et ses réactions
   
 Hypothèses :
 - Partir sur quelques échantillons exemplaires d'usagers irrité·e·s partageant des pratiques, et des affinités culturelles.
