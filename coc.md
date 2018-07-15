@@ -1,82 +1,72 @@
-Nous t'invitons à participer à une journée de réflexion et de déclenchement d’actions pour co-construire avec nous le futur tiers-lieu du Mas-Dieu.
+# Code de Conduite ou plutôt consignes pour créer un cadre d’interaction bientraitant et protecteur
 
-Tu vas participer à un forum ouvert pour promouvoir des solutions concrètes et immédiatement mises en
-oeuvre. C’est une invitation, libre à toi de t'impliquer et de participer, ou pas.
+    "Ce qui n’est pas grave pour toi est peut-être important pour moi."
+
+Nous supposons que les personnes sont intelligentes et bien intentionnées, et nous ne cherchons pas à leur dire quoi faire. Cependant, il nous paraît important que nos rencontres s’organisent dans un environnement « safe* » pour tou·te·s.
+
+Nous avons donc décidé de proposer des consignes qui permettent de faire en sorte que chacun·e se sente à l’aise.
+
+## Un Code of Conduct, pour quoi faire ?
+
+Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante principale et des personnes qui n’appartiennent pas à cette culture. Ces personnes sont donc sous-représentées dans le contexte, et naturellement, elles sont plus susceptibles d’être « oppressées » par la communauté principale. Souvent, cette oppression se manifeste par des comportements ou attitudes inappropriées adoptées sans s’en rendre compte.
+
+Imaginons-les comme un principe de précaution qui permet d’anticiper des situations pouvant aller de l’inconfortable à l’oppressif.
+
+En adoptant ces consignes, nous cherchons à établir un lien de confiance et de soin pour inviter celles et ceux qui sont sous-représenté·e·s à intégrer la communauté en toute tranquillité, dans l’objectif d’encourager et promouvoir la diversité.
   
-Il s’agit d'actionner vos idées. Les propositions émises, réalistes et réalisables dans les 6 mois seront mises en oeuvre.   Puis d'autres forums seront programmés tous les 6 mois.  
+## Concrètement, comment ça marche ?
+
+Pour sauvegarder et encourager le cadre auquel nous aspirons, nous avons défini ce qui nous convenait, et ce qui ne nous convenait pas :  
+
+### Les postures encouragées :
+
+**L’accueil :** Faisons en sorte que les personnes – de tous horizons et identités confondues – soient les bienvenues, qu’elles se sentent accueillies dans un espace ouvert et chaleureux. Cela inclut, mais sans s’y limiter, les membres de toute ethnie, culture, nationalité, couleur, statut d’immigration, classe économique et sociale, niveau d’éducation, sexe, orientation sexuelle, identité sexuelle, âge, taille, situation familiale, croyance politique, religion, capacité mentale et physique.
+
+**La bienveillance et la bientraitance :** Rencontrons-nous avec bienveillance, c’est-à-dire la volonté de viser le bien et le bonheur d’autrui, et assurons-nous d’être bien-traitant en s’assurant que notre manière d’agir concrètement va bien dans le sens de la bienveillance.  
+
+### Les comportements que nous voudrions décourager :
+
+* attaques personnelles : menaces, insultes, langage violent dirigés contre une autre personne
+* humour oppressif et langage discriminatoire
+* avances, drague non consentie
+* insistance alors que quelqu’un vous demande d’arrêter
+* encouragement des comportements ci-dessus.
+
+Que faire si vous vivez une situation qui fait référence à ces consignes ?
+
+Avant toute chose, sachez que vous êtes légitime de dire que vous n’êtes pas à l’aise avec ce qui est en train de se passer. Vous serez pris·e au sérieux.
+
+*Vous êtes à l’aise :* nous vous invitons à signaler son comportement oppressif à la personne concernée et / ou aux facilitateurs.
   
-Nous ne pouvons rien promettre, mais nous savons avec certitude que cette édition sera inédite et qu’elle vaudra la peine d’être vécue.  
+*Vous n’êtes pas à l’aise :* vous pouvez en parler à une personne présente en qui vous avez confiance, pour que celle-ci contacte les organisat·rice·eur·s.
+
+## Que pouvez-vous faire si vous êtes témoin d’une situation oppressive ?
+
+Les options sont multiples et dépendent souvent du contexte et des personnes en présence. En règle général, nous préconisons :
+
+Auprès de la personne qui a vécu une expérience négative : vérifiez que c’était bien une situation mal vécue par la personne.
+Si c’est le cas, assurez-vous qu’elle se sente bien
+Demandez-lui si vous pouvez faire quelque chose pour elle.
+Si oui, demandez-lui comment elle souhaite gérer la situation, ou comment elle souhaite que vous la gériez.  
+
+Dans tous les cas, ce qui nous paraît important est de s’adapter aux besoins / aspirations de la personne que vous êtes venu soutenir.
   
-Ta seule préparation consiste à réfléchir à la question s
-uivante :  
-  
-> Comment souhaites-tu t'impliquer dans la co-construction du Tiers-Lieu ?
+Auprès de la personne à l’origine de la situation : l’interpeller et vérifier qu’elle est disposée à échanger au sujet de la situation.  
+Si oui, lui demander de s’expliquer sur la situation.
+Sinon, lui proposer d’en reparler plus tard et / ou d’en faire part aux facilitateurs.
 
-## Programme
+Il s’agit évidemment d’une proposition non exhaustive qui ne tient pas compte des multiples contextes et personnes. Notre objectif est davantage de conseiller que d’imposer une méthode.
 
-* 09h00 - Accueil
-* 09h30 - Ouverture - présentation du format
-* 09h45 - Présentation des sujets
-* 10h30 - Place du marché
-* 11h00 - Session #1 d'atelier
-* 12h00 - Session #2 d'atelier
-* 13h00 - Session #3 d'atelier
-* 14h00 - Session #4 d'atelier
-* 15h00 - Session #5 d'atelier
-* 16h00 - Restitution et clôture
-* 17h00 - Fin
+## À qui puis-je m’adresser ?
+Tou·te·s les participant·e·s recevront, quelques jours avant l’événement, un mail récapitulatif contenant les numéros de téléphone et emails des personnes à contacter et nous les afficherons aussi pendant l’événement pour qu’ils soient accessibles facilement.  
 
-## FAQ
+## Que se passe-t-il si les consignes ne sont pas respectées ?
 
-**Est-ce que je peux venir juste une partie de la journée, genre le matin ?**
-Tu risques de ne pas te sentir très à l'aise si tu rates le démarrage, par exemple, dans la compréhension des sujets.
-Et, si tu ne viens que le matin pour notre organisation c'est pas top.
+Une fois informé·e·s, nous avons l’intention de faire quelque chose, tout en étant bien conscient·e·s que chaque situation est différente. Nous aspirons en priorité à soutenir les personnes qui ont vécu une situation négative.
 
-**Combien serons-nous ?**
-Peut-être 80, maximum 100 et sans doute 60 personnes.
+Nous agirons en priorité pour le bien-être de la personne qui a vécu une expérience négative, afin qu’elle se sente mieux. Idéalement, nous construirons la réparation avec elle, mais pas obligatoirement – cela dépendra d’elle.
 
-**Est-ce que je peux venir avec mon projet ?**
-OUI, c'est encore très ouvert rien n'est figé, tu pourras sans doute animer une session pour échanger avec les personnes intéressées.
+En ce qui concerne la personne à l’origine de la situation, l’exclusion est possible mais en aucun cas n’est obligatoire. Il y a une granularité possible.  
 
-**Mais qui organise ce Forum Ouvert ?**
-La société [Ecosec](http://ecosec.fr) - n'hésite pas à contacter Benjamin Clouet pour plus d'informations.
+* par safe, nous désignons un climat de confiance, de tranquillité et d’harmonie dans lequel chacun·e se sent pris en compte, en sécurité affective et émotionnelle. C’est un contexte dans lequel personne n’a besoin d’être sur ses gardes et qui libère des angoisses liées au regard de l’autre, à son jugement, à sa capacité à se moquer de soi ou de ses erreurs et à exiger des justifications.
 
-**D'où ça vient ce format ?**
-Cette approche a été élaborée par Harrison Owen, qui a constaté que les échanges les plus constructifs ont lieu à la pause, prés de la machine à café, car la parole se libère. Il a construit ce format pour qu'il reproduise ces conditions informelles avec l'intention de favoriser l'émergence de 'intelligence collective.  
-
-**Vous n'avez rien prévu pour le covoiturage ?**
-Beh, nous on ne prévoit rien. Mais toi, en cherchant un peu, tu peux nous rejoindre sur [notre outil d'échanges](https://mas-dieu.slack.com/messages/CBPGQ5BJ5) ou par mail pour t'organiser ;)  
-  
-**Nous mangerons quoi ?**
-Si tu manges sans gluten, que tu es végétalien·ne·s ou que tu as des restrictions alimentaires, sois sympa, préviens avant. Pour le reste nous n'avons pas encore statué.  
-
-**Tu peux maximiser tes chances de satisfaction si**
-* tu suis la [loi des deux pieds](http://en.wikipedia.org/wiki/Open_Space_Technology#Law_of_two_feet)
-* tu es prêt·e à être surpris·e    
-* tu restes concentré·e sur le thème de la journée
-* tu prends connaissance et que tu adhères au ["code of conduct"]()
-
-## Informations pratiques
-* Coordonnées GPS : 43.6181 - 3.7393
-* Durée du trajet Montpellier-Mosson > Mas-Dieu : 20'
-
-**Itinéraire**
-* En sortant de Montpellier prendre la direction de Millau  
-* Sortir à Montarnaud - sortie 61
-* Continuer sur La Vabre - D619  
-* Passer doucement devant le Mas-Dieu
-* Prendre le petit chemin sur la droite à la sortie du virage juste après le Mas-Dieu
-
-**Quelques liens**
-Les valeurs du projet, notre intention
-[La carte du lieu](https://umap.openstreetmap.fr/fr/map/tiers-lieu-du-mas-dieu_234160)
-[Forum Ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert)
-[Code of conduct]()
-
-**Facilitation**
-[Yannick Bellat](mailto:yannick.belat@gmail.com) & [Stéphane Langlois](mailto:stephane.langlois@scopyleft.fr)
-
-**Producteur**
-Ecosec - [Benjamin Clouet](b.clouet@ecosec.fr)
-
-![](https://framapic.org/JOQZ6Kj4fnov/0cPa8pIrd4Vk)
