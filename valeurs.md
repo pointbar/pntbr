@@ -33,3 +33,6 @@ Faire des trucs citoyens avec des personnes enthousiastes en maximisant la quali
 * Nous aimons nous marrer, rigoler en réalisant des trucs sérieux et utiles.
 * On pense que l'enthousiasme est moteur, on fait gaffe à pas le piétiner.
 * On prend soin de faire des trucs en conscience en maximisant notre qualité de vie
+
+
+![](https://raw.githubusercontent.com/pointbar/pntbr/master/valeurs-mindmap.png)
