@@ -33,7 +33,7 @@ Tu risques de ne pas te sentir très à l'aise si tu rates le démarrage, par ex
 Et, si tu ne viens que le matin pour notre organisation c'est pas top.
 
 **Combien serons-nous ?**
-Peut-être 80, maximum 100 et sans doute 60 personnes.
+Peut-être 30, maximum 40 et sans doute 27 personnes.
 
 **Est-ce que je peux venir avec mon projet ?**
 OUI, c'est encore très ouvert rien n'est figé, tu pourras sans doute animer une session pour échanger avec les personnes intéressées.
